@@ -1,0 +1,103 @@
+a{
+    text-decoration:none
+}
+/*header*/
+.hdiv1{
+    background-color: rgb(10, 10, 170);
+    color: white;
+    width:auto;
+    height:130px;
+    margin-top: -10px;
+    margin-left:-10px;
+    margin-right:-10px;
+  }
+  .hdiv2{
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:left;
+    padding-top: 40px;
+    padding-left: 20px;
+  
+  }
+  .hdiv3{
+        display: inline;
+        margin: 0;
+        padding-left: 500px;
+        padding-bottom: 200px;
+        list-style: none;
+  }
+  .hdiv3:hover {
+    opacity: 0.9;
+  }
+  .hdiv3 a{
+  text-decoration: none;
+  color: white;
+  
+  }
+  .hdiv3 a {
+  float: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 13;
+  text-align: center;
+  }
+  .hdiv3 a:hover {
+  background-color: rgba(64, 51, 51, 0.164);
+  }
+  .hdiv4{
+  margin-top: -105px;
+  margin-right:20px;
+  padding-left: 1000px;
+  padding-bottom: 500px;
+  font-size: 15px;
+  text-align: center;
+  }
+  .fa {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px ;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.5;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
